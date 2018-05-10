@@ -3,7 +3,7 @@
 # VusUI 小程序UI库、样式库
 ## 持续更新中...
 
-## 扫码查看API文档
+## 扫一扫下面的二维码或者微信搜索小程序（VusUI）查看API文档
 <img width="300" src="http://vusui.com/images/vusui-wx.jpg" alt="QR Code">
 
 
