@@ -4,7 +4,7 @@
 ## 持续更新中...
 
 ## 扫码查看API文档
-<img width="114" src="http://vusui.com/images/vusui-wx.jpg" alt="QR Code">
+<img width="300" src="http://vusui.com/images/vusui-wx.jpg" alt="QR Code">
 
 
 ## 使用方法
